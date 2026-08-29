@@ -11,10 +11,16 @@ I am a Class 10 CBSE student from Andhra Pradesh with a passionate interest in *
 ---
 
 ### 📜 Professional Certifications & Achievements
+
 * **Critical Thinking in the AI Era** – *HP LIFE & HP Foundation* (Issued: May 2026)
   * Developed frameworks to analyze data biases, verify factual integrity, and evaluate algorithmic processing risks.
+
+![Critical Thinking Certificate](Screenshot_20260519_091238_Samsung%20Notes.jpg)
+
 * **Presenting Data** – *HP LIFE & HP Foundation* 
   * Mastered techniques for organizing, charting, and communicating complex numerical data sets cleanly.
+
+![Presenting Data Certificate](Screenshot_20260513_142750_Samsung%20Notes.jpg)
 
 ---
 
